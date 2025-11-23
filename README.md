@@ -23,7 +23,7 @@ It showcases my work, skills, and projects in a clean and modern layout.
 ##
 ![Home Screenshot](./images/image.png)
 ![About Screenshot](./images/image2.png)
-![Projects Screenshot](./images/images3.png)
+![Projects Screenshot](./images/image3.png)
 ![contact Screenshot](./images/image4.png)
 ---
 
